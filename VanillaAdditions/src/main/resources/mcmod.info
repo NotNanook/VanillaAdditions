@@ -1,0 +1,16 @@
+[
+{
+  "modid": "VA",
+  "name": "Vanilla Additions",
+  "description": "Adds some neat features to the game",
+  "version": "1.3",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Nan0ok", "TheMyzo"],
+  "credits": "Nan0ok and TheMyzo",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
